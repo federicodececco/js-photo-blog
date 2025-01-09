@@ -1,0 +1,16 @@
+header {
+  background-image: url('../img/wall.png');
+}
+main {
+  background-image: url('../img/cork.png');
+  width: 100vw;
+}
+.imagine {
+  background-image: url('../img/placheolder.svg');
+}
+.position {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -20%);
+}
