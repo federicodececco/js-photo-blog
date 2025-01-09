@@ -1,6 +1,7 @@
 let promArray = []
 /**
- *
+ *rapresent a post containing an image and its description needed to create the 
+ *the innerhtml
  */
 class post {
   constructor(image, desc) {
