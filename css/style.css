@@ -28,3 +28,7 @@ button.position {
   z-index: 50;
   background-color: lightgrey;
 }
+#capsuleSection > div:hover {
+  transform: matrix(1.2, -1, 1, 1.2, 0, 0);
+  z-index: 10;
+}
